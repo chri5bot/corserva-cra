@@ -1,7 +1,7 @@
 import React from 'react'
 
 function NotMatch() {
-  return <div>Not Match</div>
+  return <h1>Not Match</h1>
 }
 
 export default NotMatch
